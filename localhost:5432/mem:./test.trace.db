@@ -1,0 +1,6 @@
+2016-03-25 22:52:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "JOINS" not found; SQL statement:
+SELECT COUNT(*) FROM joins [42102-190]
+2016-03-25 22:52:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "JOINS" not found; SQL statement:
+SELECT COUNT(*) FROM joins [42102-190]
