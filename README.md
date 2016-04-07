@@ -1,6 +1,6 @@
 # test
 
-A Clojure database app to ... well, that part is up to you.
+First attempt to create a clojure web app with a db, ran out of time while still researching sessions in clojure and did a different project for the assignment
 
 ## Usage
 
